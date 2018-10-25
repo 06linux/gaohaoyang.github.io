@@ -8,10 +8,12 @@
 # Site settings
 title: TestBlog
 brief-intro: Front-end Dev Engineer
-baseurl: "/testblog.github.io" # the subpath of your site, e.g. /blog
+baseurl: "/testblog" # the subpath of your site, e.g. /blog
 url: "https://06linux.github.io" # the base hostname & protocol for your site
 
+
 permalink: /:year/:month/:day/:title/
+
 
 # other links
 twitter_username: gaohaoyang126
